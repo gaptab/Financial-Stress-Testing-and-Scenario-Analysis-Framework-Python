@@ -1,0 +1,4 @@
+Indicator,Threshold,Current Value,Alert
+Liquidity Ratio,1.2,1.6044173792778174,False
+Capital Adequacy,10.0,10.619523273905019,False
+NPA Ratio,5.0,4.406122449469539,True
