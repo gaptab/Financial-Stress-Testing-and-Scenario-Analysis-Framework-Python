@@ -14,3 +14,16 @@ Early Warning Indicators: Monitors key performance indicators with thresholds.
 Management Information (MI): Summarizes climate change scenario impacts for top management.
 
 
+
+
+**Code Flow:**
+
+Simulated Data Generation: Financial and macroeconomic data for scenario analysis.
+
+Modeling and Automation: Regression to understand macroeconomic influences. Fee income modeling to estimate revenues.
+
+Scenario Analysis and Monitoring: Climate change scenarios for impact assessment. Early warning indicators for proactive decision-making.
+
+Insights for Management: Summarizes data for strategic insights.
+
+464
